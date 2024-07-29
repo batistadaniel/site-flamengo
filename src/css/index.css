@@ -99,7 +99,9 @@ p::before {
 .logo img {
     width: 100%;
 }
-
+.logo-mobile {
+    display: none;
+}
 .formulario {
     width: 400px;
 }
